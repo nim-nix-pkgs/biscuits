@@ -11,6 +11,7 @@
   inputs.src-biscuits-master.ref   = "refs/heads/master";
   inputs.src-biscuits-master.owner = "achesak";
   inputs.src-biscuits-master.repo  = "nim-biscuits";
+  inputs.src-biscuits-master.dir   = "";
   inputs.src-biscuits-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
