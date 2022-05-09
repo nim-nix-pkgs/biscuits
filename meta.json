@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/achesak/nim-biscuits",
   "refs": [
-    "fatal: unable to access 'https://github.com/achesak/nim-biscuits/': SSL connection timeout",
+    "fatal: unable to access 'https://github.com/achesak/nim-biscuits/': Failed to connect to github.com port 443 after 129378 ms: Connection timed out",
     ""
   ],
   "heads": []
