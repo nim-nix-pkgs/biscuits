@@ -7,8 +7,37 @@
   "license": "MIT",
   "web": "https://github.com/achesak/nim-biscuits",
   "refs": [
-    "fatal: unable to access 'https://github.com/achesak/nim-biscuits/': Failed to connect to github.com port 443 after 129378 ms: Connection timed out",
+    "refs/heads/master",
     ""
   ],
-  "heads": []
+  "heads": [
+    {
+      "name": "biscuits",
+      "version": "1.1",
+      "author": "Adam Chesak",
+      "desc": "better cookie handling",
+      "license": "MIT",
+      "skipDirs": [],
+      "skipFiles": [],
+      "skipExt": [],
+      "installDirs": [],
+      "installFiles": [],
+      "installExt": [],
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18"
+          }
+        }
+      ],
+      "bin": [],
+      "binDir": "",
+      "srcDir": "",
+      "backend": "c",
+      "ref": "refs/heads/master"
+    }
+  ]
 }
