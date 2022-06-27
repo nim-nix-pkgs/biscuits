@@ -12,11 +12,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1653701739,
-        "narHash": "sha256-o9eAfMzMNItHhoupRSblmB/d/ounf6ioO1392CZjTUc=",
+        "lastModified": 1656297605,
+        "narHash": "sha256-tRZTAMDR+rNpyyHFRlqC5gNDDYJAd6AiurqmTmnol7Y=",
         "owner": "nim-nix-pkgs",
         "repo": "biscuits",
-        "rev": "8ffd9b7cfa934a05a2a05a5f295ab95c13e7b0c8",
+        "rev": "aeab797ad7cfebdbb43052ce016c76e685ccb84d",
         "type": "github"
       },
       "original": {
